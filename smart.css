@@ -1,0 +1,267 @@
+Theme Name: Cool
+Theme URI: http://wordpress.org/themes/cool
+Description: a cool theme
+Version: 1.0
+Author: Samar
+Author URI: Your website address.
+body{
+	color:unset;
+}
+.header{
+	background-image: url("imgs/newyork.jpg");
+		color:white !important;
+
+}
+.alpha{
+	background: rgba(0,0,0,0.8);
+	padding: 30px 150px 100px 150px;
+}
+
+.div{
+	
+	float: right;
+	font-size: 18px;
+	margin-top: 20px;
+	
+}
+.div a{
+	text-decoration:none;
+}
+.div a:hover{
+	color:gray;
+}
+
+.brand{
+	font-size: 50px;
+	font-weight: bold;
+	color:white !important;
+	
+}
+
+.red{
+	color: #c10000;
+}
+
+.upperIcons{
+	margin-left: 20px;
+}
+
+.us{
+	color: white;
+	font-weight: bold;
+}
+
+.upper{
+	margin-top: 120px;
+}
+
+.upperH1{
+	font-size: 70px;
+	font-weight: bold;
+	margin-bottom: 30px;
+}
+
+.upperP{
+	color: gray;
+
+}
+
+.pSpan{
+	color: white;
+}
+
+#redBtn{
+	border-radius: 20px;
+	font-weight: bold;
+	width: 150px;
+	margin-top: 30px;
+}
+#Btn{
+	color: white;
+	border-radius: 20px;
+	background:transparent; 
+	 border: 1px gray solid;
+	 font-weight: bold;
+	 width: 150px;
+	margin-top: 30px;
+}
+
+.Div{
+	margin:20px 150px 20px 150px;
+
+}
+
+.secDivP{
+	font-size: 60px;
+	font-weight: bold;
+}
+
+.secDivSpan{
+	color: #ff5e5e;
+}
+
+.col1{
+	border-top: 3px #ff5e5e solid;
+	margin-bottom: 30px;
+}
+.col2{
+	border-top: 3px lightgray solid;
+	margin-bottom: 30px;
+}
+.col3{
+	border-top: 3px #f2f2f2 solid;
+	margin-bottom: 30px;
+}
+.color{
+	color: #ff213b;
+}
+
+
+.col-md-7{
+	padding: 0px !important;
+}
+.col-md-7 img{
+	min-width: 100%
+
+}
+
+
+.spanNum{
+	color: gray;
+	font-weight: 800;
+	border: 2px gray solid;
+	border-radius: 100%;
+	padding: 10px 15px;
+}
+
+.colP{
+	color: gray;
+}
+
+
+
+.halfDiv{
+	background-color: #ff5e5e;
+	padding: 50px 30px 50px 30px;
+	color: white;
+	height: 592px;
+}
+
+.p{
+	font-size:25px;
+	margin-top: 30px;
+}
+
+.H1{
+	font-size: 70px;
+	font-weight: bold;
+	margin-bottom: 30px;
+	text-align: center;
+}
+
+.pa{
+	color: gray;
+	text-align: center;
+}
+
+.b{
+	border: 1px lightgray solid;
+	border-top: 0;
+	text-align: center;
+	margin: 5%;
+}
+
+.h1Header{
+	background-color: #515151;
+	color: white;
+	font-size: 20px;
+	padding: 20px 40px
+}
+
+
+.cont{
+	margin: 10px 20px;
+}
+
+.redB{
+	color: white;
+	background-color: #ff5e5e;
+	border: 0;
+	padding: 5px 25px;
+	margin: 20px 20px;
+
+}
+
+#h1Header2{
+	background-color: #ff5e5e;
+}
+
+.divB{
+	border: 1px lightgray solid;
+	margin:40px 175px;
+}
+
+.spanBorder{
+	border: 1px  #ff5e5e solid;
+	border-radius: 100%;
+	padding: 10px;
+	font-size: 50px;
+	margin-top:20px;
+}
+
+.divBorder{
+	border: 1px lightgray solid;
+	margin: 20px 175px;
+	padding: 10px 20px;
+	line-height: 0.1;
+}
+
+.last{
+	background-color: #515151;
+}
+
+.lastpad{
+	padding: 20px 175px;
+}
+
+.lastH1{
+	font-weight: 800;
+	color: white;
+	margin-bottom: 30px;
+}
+
+.lastColor{
+	color: #d8d8d8;
+}
+
+.side{
+	border-right: 1px lightgray solid;
+	border-left: 1px lightgray solid;
+	padding-right: 30px;
+	padding-left: 30px;
+	text-align: center;
+}
+.side a{
+	color:#d8d8d8;
+	text-decoration: none;
+}
+.side a:hover{
+	cursor: pointer;
+	color:white;
+}
+
+.lastBtn{
+	margin-top: 100px;
+	margin-left: 30px;
+	background: transparent;
+	border-radius: 20px;
+	padding: 10px 30px;
+}
+
+.lastIcon{
+	
+	padding: 10px 0px;
+	float: left;
+	margin-top: 50px;
+	font-size: 30px;
+}
